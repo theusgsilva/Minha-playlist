@@ -1,5 +1,4 @@
 name: Publicar playlist
-
 on:
   push:
     branches: ["main"]
